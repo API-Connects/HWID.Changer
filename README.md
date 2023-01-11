@@ -33,7 +33,7 @@
  > 
  > Remove Shadow Ban 
  
- - Apex Spoofer = [Apex Spoofer](https://github.com/Fnoberz/Apex-Spoofer]
+ - Apex Spoofer = [Apex Spoofer](https://github.com/Slackes/Apex-Spoofer)
  >
  > Remove files and clean all folders.
  >
